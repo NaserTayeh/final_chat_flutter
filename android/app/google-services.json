@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010552092173",
+    "project_id": "final-chat-fe453",
+    "storage_bucket": "final-chat-fe453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010552092173:android:977f06de1f9572903a8744",
+        "android_client_info": {
+          "package_name": "com.example.chat_finaly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010552092173-h2d9o3gorl3msv2t09tp40i818imjo6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8Sxltwb_oSESaErCambjRbnFnDUr9ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010552092173-h2d9o3gorl3msv2t09tp40i818imjo6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
